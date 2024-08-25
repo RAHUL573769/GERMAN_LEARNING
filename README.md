@@ -1,1 +1,1 @@
-GERMAN
+GERMAN Language
